@@ -54,7 +54,7 @@ differentiated method, based on the student learning together with his peers, in
 | 5  | C 00       | C     | about 5 days  | 63% ✔️ |
 | 6  | C 01       | C     | about 1 day   | 100% ✔️|
 | 7  | C 02       | C     | about 2 days  | 92% ✔️ |
-| 8  | Exam 01    | C     | about 4 hours | ❓     |
+| 8  | Exam 01    | C     | about 4 hours | 24% ❌ |
 | 9  | Rush 01    | C     | 2 days        | 0% ❌  |
 | 10 | C 03       | C     | about 3 days  |  75%✔️ |
 | 11 | C 04       | C     | about 2 hours | 50%✔️  |
@@ -77,12 +77,12 @@ differentiated method, based on the student learning together with his peers, in
 | 6  | Helper II 2       | Receive a certain number of votes in Voxotron during the second week of Basecamp.     | ✔️ |
 | 7  | First Footprints 1       | Be active on at least 5 of 7 days in the second week of Basecamp.    | ✔️ |
 | 8  | United Tribe II 1    | At least 80% of your Tribe members have been active on min. 5 of 7 days in the second week of Basecamp.   | ✔️ |
-| 9  | Community III 1   | Participate in most of the events in the third week of Basecamp.    | ❓ |
-| 10 | Explorer 1       | Be active on at least 5 of 7 days in the third week of Basecamp.    | ❓ |
-| 11 | Focus II 1       | Achieve in the third week at least the number of points earned in the second week of Basecamp.     | ❓ |
-| 12 | Helper III 2       | Receive a certain number of votes in Voxotron during the third week of Basecamp.   | ❓ |
-| 13 | Super Community 1     | Participate in most of the events throughout the Basecamp. | ❓ |
-| 14 | Super Focus 1 |Achieve in the fourth week at least the number of points earned in the third week of Basecamp.     | ❓ |
-| 15 | Super Helper 1 | Receive a certain number of votes in Voxotron throughout the Basecamp.    | ❓ |
-| 16 | Super Tribe 1 | At least 80% of your Tribe members have been active on min. 5 of 7 days throughout the Basecamp.  | ❓ |
-| 17 | United Tribe III 1| At least 80% of your Tribe members have been active on min. 5 of 7 days in the third week of Basecamp.  | ❓ |
+| 9  | Community III 1   | Participate in most of the events in the third week of Basecamp.    | ✔️ |
+| 10 | Explorer 1       | Be active on at least 5 of 7 days in the third week of Basecamp.    | ✔️ |
+| 11 | Focus II 1       | Achieve in the third week at least the number of points earned in the second week of Basecamp.     | ❌ |
+| 12 | Helper III 2       | Receive a certain number of votes in Voxotron during the third week of Basecamp.   | ❌ |
+| 13 | Super Community 1     | Participate in most of the events throughout the Basecamp. | ✔️ |
+| 14 | Super Focus 1 |Achieve in the fourth week at least the number of points earned in the third week of Basecamp.     | ❌ |
+| 15 | Super Helper 1 | Receive a certain number of votes in Voxotron throughout the Basecamp.    | ❌ |
+| 16 | Super Tribe 1 | At least 80% of your Tribe members have been active on min. 5 of 7 days throughout the Basecamp.  |✔️ |
+| 17 | United Tribe III 1| At least 80% of your Tribe members have been active on min. 5 of 7 days in the third week of Basecamp.  | ✔️ |
