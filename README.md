@@ -18,31 +18,31 @@ differentiated method, based on the student learning together with his peers, in
 
 ### Hard Skills
 
-		C: The fundamental language through 42's Cursus and of course of the Basecamp as well,
-		from the most basics as dealing with operators, variables, pointers, memory allocation,
-		to replicate existing standard functions.
+	C: The fundamental language through 42's Cursus and of course of the Basecamp as well,
+	from the most basics as dealing with operators, variables, pointers, memory allocation,
+	to replicate existing standard functions.
 
-		Shell: The first two lists are about Shell, to make you feel more familiar with the POSIX shell,
-		going from basic commands to some more obscure.
+	Shell: The first two lists are about Shell, to make you feel more familiar with the POSIX shell,
+	going from basic commands to some more obscure.
 
-		Git: All projects stay at a remote Git repository, so it's essential to learn it from the very
-		first challenge.
+	Git: All projects stay at a remote Git repository, so it's essential to learn it from the very
+	first challenge.
 
 ### Soft Skills 
 
-		Self-teaching & Knowing how to ask/search: Things that are part of learning how to learn
-		and part of the pedagogy of 42. Knowing how to go after content and learn together with
-		your peers. And within that, also to know how to ask/research, and this is already reflected
-		in the very meaning of the name 42.
+	Self-teaching & Knowing how to ask/search: Things that are part of learning how to learn
+	and part of the pedagogy of 42. Knowing how to go after content and learn together with
+	your peers. And within that, also to know how to ask/research, and this is already reflected
+	in the very meaning of the name 42.
 
-		Empathy: To understand that everyone has their difficulties and to understand that this
-		does not invalidate anyone and that everyone is capable of progressing. This was something
-		that was exercised a lot during the whole Basecamp.
+	Empathy: To understand that everyone has their difficulties and to understand that this
+	does not invalidate anyone and that everyone is capable of progressing. This was something
+	that was exercised a lot during the whole Basecamp.
 
-		Dealing with time & responsibility: As there is a lot to do and time is short, learning
-		how to organizeyour time is something very important, since there are events and corrections
-		with a fixed schedule and it is necessary to have the responsibility to commit to such
-		a schedule and stick to it.
+	Dealing with time & responsibility: As there is a lot to do and time is short, learning
+	how to organize your time is something very important, since there are events and corrections
+	with a fixed schedule and it is necessary to have the responsibility to commit to such
+	a schedule and stick to it.
 ----------
 
 ## Curriculum
