@@ -36,12 +36,12 @@ differentiated method, based on the student learning together with his peers, in
 	in the very meaning of the name 42.
 
 	Empathy: To understand that everyone has their difficulties and to understand that this
-	does not invalidate anyone and that everyone is capable of progressing. This was something
+	does not invalidate anyone, and that everyone is capable of progressing. This was something
 	that was exercised a lot during the whole Basecamp.
 
 	Dealing with time & responsibility: As there is a lot to do and time is short, learning
 	how to organize your time is something very important, since there are events and corrections
-	with a fixed schedule and it is necessary to have the responsibility to commit to such
+	with a fixed schedule, and it is necessary to have the responsibility to commit to such
 	a schedule and stick to it.
 ----------
 
